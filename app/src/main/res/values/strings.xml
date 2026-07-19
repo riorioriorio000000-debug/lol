@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Q</string>
+    <string name="accessibility_service_name">Q - Auto Clicker</string>
+    <string name="accessibility_service_description">يتيح النقر التلقائي على الشاشة وتنفيذ الإيماءات</string>
+</resources>
